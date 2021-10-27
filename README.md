@@ -19,6 +19,6 @@ Prazer, sou o Victor, formado em Engenharia Física pela UNILA, onde trabalhei n
 * **Criando modelos de Machine Learning utilizando Pytorch:** ( em breve )
 * **Criando modelos de Machine Learning utilizando Keras:** ( em breve )
 * **Conhecendo a biblioteca de otimização Optuna:** ( em breve )
-
+* [**Análise dos dados do Airbnb, Berlin, Alemanha.**](https://github.com/VictorWentz/Analise_airbnb_berlin)
 ---
 
