@@ -16,9 +16,11 @@ Prazer, sou o Victor, formado em Engenharia Física pela UNILA, onde trabalhei n
 
 ## Projetos:
 * [**Artigo publicado na Revista BABT:**](https://www.scielo.br/j/babt/a/Qrr9hBPQRb54nTnBQWwwX8c/?lang=en) [código](https://github.com/VictorWentz/revista-babt)
+* [**Análise dos dados do Airbnb, Berlin, Alemanha.**](https://github.com/VictorWentz/Analise_airbnb_berlin)
+* [** Projeto Data Driven **](https://github.com/brunooziel/webapp)
 * **Criando modelos de Machine Learning utilizando Pytorch:** ( em breve )
 * **Criando modelos de Machine Learning utilizando Keras:** ( em breve )
 * **Conhecendo a biblioteca de otimização Optuna:** ( em breve )
-* [**Análise dos dados do Airbnb, Berlin, Alemanha.**](https://github.com/VictorWentz/Analise_airbnb_berlin)
+
 ---
 
