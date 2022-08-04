@@ -15,6 +15,7 @@ Prazer, sou o Victor, formado em Engenharia Física pela UNILA, onde trabalhei n
 
 
 ## Projetos:
+* [** Aplicativo para gestão financeira **](WIP)
 * [**Sistema de Login em Dash**](https://github.com/VictorWentz/auth-system)
 * [**Dash análise de vendas - NYC**](https://github.com/VictorWentz/dash-nyc)
 * [**Artigo publicado na Energies**](https://www.mdpi.com/1996-1073/15/7/2457) [código](https://github.com/Joylan/2022_wentz_energies)
